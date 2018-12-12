@@ -12,5 +12,4 @@ This repo will serve as a repo for all my training and tutorials while working i
 1. Sass
 
 
-![]
-(https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
